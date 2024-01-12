@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-		    <url>http://18.216.155.43:8081/repository/Project1-SNAPSHOT/</url>
+		    <url>http://18.216.155.43:8081/repository/MTN-app-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
